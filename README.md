@@ -1,4 +1,7 @@
-#ISIS1225 - Estructura de un proyecto
+#ISIS1225 - Estructura de Datos y Algoritmos
+LabMVC-S01-G05
+Akshaya Arunachalam-202020637
+Jean Sebastian Rojas Santos-201820143
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
