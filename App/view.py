@@ -43,7 +43,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     # TODO: Modificaciones para el laboratorio 1.
-    print("3- Cargar book_tags")
+    print("3- Cargar Book_Tags")
     print("0- Salir")
 
 
@@ -62,7 +62,7 @@ def loadTags():
     
 def loadBook_Tags():
     """
-    Carga los Tags
+    Carga los Book Tags
     """
     return controller.loadBookTags('GoodReads/book_tags-small.csv')
 
